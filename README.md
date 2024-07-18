@@ -20,4 +20,4 @@ Scanner ini digunakan untuk memeriksa apakah ada backlink ke situs judi online d
 
 ## Penggunaan
 
-python script.py si.panda.id
+python script.py pafidenpasar.org
